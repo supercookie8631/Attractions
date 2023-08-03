@@ -1,6 +1,6 @@
 ## Attractions - 探索台北之美
 
-[英文](https://github.com/supercookie8631/Attractions/edit/main/README.md) | [中文](#attractions)
+[英文](https://github.com/supercookie8631/Attractions/blob/main/README.md) | [中文](#attractions)
 
 [觀看完整展示影片](https://www.youtube.com/watch?v=s8dxadptW_Q&feature=youtu.be)
 
