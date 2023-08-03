@@ -1,6 +1,6 @@
 ## Attractions - Explore Taipei's Beauty
 
-[English](#attractions) | [中文](https://github.com/supercookie8631/Attractions/blob/main/README_zh_tw)
+[English](#attractions) | [中文](https://github.com/supercookie8631/Attractions/blob/main/README_zh_tw.md)
 
 [Watch the Demo Video](https://www.youtube.com/watch?v=s8dxadptW_Q&feature=youtu.be)
 
