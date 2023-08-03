@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--西班牙文-->
+<resources>
+    <string name="app_name">Atracciones recreativas</string>
+    <string name="main_title">Atracciones recreativas</string>
+    <string name="wait_loading">Por favor espere mientras carga…</string>
+    <string name="no_more_information">No se ha encontrado más información</string>
+    <string name="choose_language">elegir idioma</string>
+    <string name="cancel">Cancelar</string>
+    <string name="empty">El contenido está vacío…</string>
+    <string name="click_to_reload">Haga clic para recargar</string>
+    <string name="Loading">Cargando…por favor espere</string>
+    <string name="share">Share</string>
+    <string name="favorite">favorite</string>
+    <string name="bookmark">bookmark</string>
+    <string name="detail">Información detallada</string>
+    <string name="website">Información del sitio web</string>
+    <string name="web_loading">Espere mientras se carga la página…</string>
+</resources>

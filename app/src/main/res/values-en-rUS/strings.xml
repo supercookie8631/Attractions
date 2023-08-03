@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--英文-->
+<resources>
+    <string name="app_name">Recreational attractions</string>
+    <string name="main_title">Recreational attractions</string>
+    <string name="wait_loading">Please wait while loading…</string>
+    <string name="no_more_information">No more information has been found</string>
+    <string name="choose_language">choose language</string>
+    <string name="cancel">Cancel</string>
+    <string name="empty">The content is empty…</string>
+    <string name="click_to_reload">Click to reload</string>
+    <string name="Loading">Loading…please wait</string>
+    <string name="share">Share</string>
+    <string name="favorite">favorite</string>
+    <string name="bookmark">bookmark</string>
+    <string name="detail">DETAIL</string>
+    <string name="website">WEDSITE</string>
+    <string name="web_loading">Please wait while the page is loading…</string>
+</resources>

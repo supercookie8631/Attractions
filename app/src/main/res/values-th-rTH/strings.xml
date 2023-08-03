@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--泰文-->
+<resources>
+    <string name="app_name">สถานที่ท่องเที่ยว</string>
+    <string name="main_title">ไทย</string>
+    <string name="wait_loading">โปรดรอสักครู่ขณะโหลด…</string>
+    <string name="no_more_information">ไม่พบข้อมูลเพิ่มเติม</string>
+    <string name="choose_language">เลือกภาษา</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="empty">เนื้อหาว่างเปล่า…</string>
+    <string name="click_to_reload">คลิกเพื่อโหลดซ้ำ</string>
+    <string name="Loading">กำลังโหลด…โปรดรอสักครู่</string>
+    <string name="share">Share</string>
+    <string name="favorite">favorite</string>
+    <string name="bookmark">bookmark</string>
+    <string name="detail">ข้อมูลโดยละเอียด</string>
+    <string name="website">ข้อมูลเว็บไซต์</string>
+    <string name="web_loading">โปรดรอสักครู่ขณะที่หน้ากำลังโหลด…</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--印尼文-->
+<resources>
+    <string name="app_name">Atraksi rekreasi</string>
+    <string name="main_title">Atraksi rekreasi</string>
+    <string name="wait_loading">Harap tunggu saat memuat…</string>
+    <string name="no_more_information">Tidak ada lagi informasi yang ditemukan</string>
+    <string name="choose_language">pilih bahasa</string>
+    <string name="cancel">Batalkan</string>
+    <string name="empty">Isinya kosong…</string>
+    <string name="click_to_reload">Klik untuk memuat ulang</string>
+    <string name="Loading">Memuat…harap tunggu</string>
+    <string name="share">Share</string>
+    <string name="favorite">favorite</string>
+    <string name="bookmark">bookmark</string>
+    <string name="detail">Informasi lengkap</string>
+    <string name="website">Informasi situs web</string>
+    <string name="web_loading">Harap tunggu sementara halaman sedang dimuat…</string>
+</resources>

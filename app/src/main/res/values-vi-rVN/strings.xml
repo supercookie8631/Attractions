@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--越南文-->
+<resources>
+    <string name="app_name">Điểm giải trí</string>
+    <string name="main_title">Điểm giải trí</string>
+    <string name="wait_loading">Vui lòng đợi trong khi tải…</string>
+    <string name="no_more_information">Không tìm thấy thêm thông tin nào</string>
+    <string name="choose_language">chọn ngôn ngữ</string>
+    <string name="cancel">Hủy</string>
+    <string name="empty">Nội dung trống…</string>
+    <string name="click_to_reload">Nhấp để tải lại</string>
+    <string name="Loading">Đang tải…vui lòng đợi</string>
+    <string name="share">Share</string>
+    <string name="favorite">favorite</string>
+    <string name="bookmark">bookmark</string>
+    <string name="detail">Thông tin chi tiết</string>
+    <string name="website">Thông tin trang web</string>
+    <string name="web_loading">Vui lòng đợi trong khi trang đang tải…</string>
+</resources>

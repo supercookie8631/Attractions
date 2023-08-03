@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--簡體中文-->
+<resources>
+    <string name="app_name">游憩景点</string>
+    <string name="main_title">游憩景点</string>
+    <string name="wait_loading">载入中请稍等…</string>
+    <string name="no_more_information">已查无更多资料</string>
+    <string name="choose_language">选择语言</string>
+    <string name="cancel">取消</string>
+    <string name="empty">内容为空…</string>
+    <string name="click_to_reload">点击重新加载</string>
+    <string name="Loading">加载中…请稍后</string>
+    <string name="share">Share</string>
+    <string name="favorite">favorite</string>
+    <string name="bookmark">bookmark</string>
+    <string name="detail">详细信息</string>
+    <string name="website">网站资讯</string>
+    <string name="web_loading">网页载入中请稍等…</string>
+</resources>
